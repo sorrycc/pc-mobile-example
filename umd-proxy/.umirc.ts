@@ -11,5 +11,4 @@ export default {
     'https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js',
     'https://unpkg.com/dayjs@1.11.7/dayjs.min.js',
   ],
-  mfsu: false,
 };
