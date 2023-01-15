@@ -5,3 +5,4 @@
 ## solutions
 
 - lazy-isMobile-awaitImport
+- umd-proxy

@@ -1,2 +1,3 @@
 packages:
   - 'lazy-isMobile-awaitImport'
+  - 'umd-proxy'

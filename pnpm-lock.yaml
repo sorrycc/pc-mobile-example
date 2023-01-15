@@ -16,6 +16,17 @@ importers:
     devDependencies:
       umi: 4.0.44
 
+  umd-proxy:
+    specifiers:
+      antd: ^5.1.4
+      antd-mobile: ^5.28.0
+      umi: ^4
+    dependencies:
+      antd: 5.1.4
+      antd-mobile: 5.28.0
+    devDependencies:
+      umi: 4.0.44
+
 packages:
 
   /@ampproject/remapping/2.2.0:

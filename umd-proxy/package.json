@@ -1,0 +1,15 @@
+{
+  "name": "umd-proxy",
+  "private": true,
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "dependencies": {
+    "antd": "^5.1.4",
+    "antd-mobile": "^5.28.0"
+  },
+  "devDependencies": {
+    "umi": "^4"
+  }
+}

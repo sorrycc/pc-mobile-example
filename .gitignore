@@ -4,4 +4,8 @@
 /lazy-isMobile-awaitImport/.umi-test
 /lazy-isMobile-awaitImport/.umi-production
 /lazy-isMobile-awaitImport/dist
-
+/umd-proxy/node_modules
+/umd-proxy/.umi
+/umd-proxy/.umi-test
+/umd-proxy/.umi-production
+/umd-proxy/dist
