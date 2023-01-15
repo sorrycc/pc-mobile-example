@@ -1,0 +1,7 @@
+/node_modules
+/lazy-isMobile-awaitImport/node_modules
+/lazy-isMobile-awaitImport/.umi
+/lazy-isMobile-awaitImport/.umi-test
+/lazy-isMobile-awaitImport/.umi-production
+/lazy-isMobile-awaitImport/dist
+
